@@ -1,0 +1,16 @@
+.env
+.venv/
+
+__pycache__/
+.idea/
+
+*.db
+*.sqlite3
+
+uvicorn.log
+
+alembic/versions/*.pyc
+alembic/versions/__pycache__/
+
+
+.docker/

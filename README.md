@@ -1,6 +1,6 @@
 # Weather Enrichment Service
 
-A full-stack web app to track cities and view their current weather data. Cities are added via the UI, and weather is fetched asynchronously from the OpenWeather API using Celery workers.
+A web app to track cities and view their current weather data.
 
 **Stack:** FastAPI · Celery · PostgreSQL · Redis · Angular · Docker
 
